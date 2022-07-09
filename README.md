@@ -1,3 +1,7 @@
+Building AWS Apps with CDK and Projen for fun
+
+Worked so much time with Java then now I only want to do things on Typescript or Python (maybe learn GO some day)
+
 <!--
 ![Marciocadev’s Stats](https://github-readme-stats.vercel.app/api?username=marciocadev&show_icons=true&theme=github_dark)
 
@@ -23,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
