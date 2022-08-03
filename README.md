@@ -29,5 +29,7 @@ Here are some ideas to get you started:
 - 👎 
 - 💀
 https://www.emojiall.com/pt
+
+https://davidlozzi.com/2021/03/16/style-up-your-console-logs/
 -->
 
