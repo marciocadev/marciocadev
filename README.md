@@ -1,6 +1,10 @@
 Building AWS Apps with CDK and Projen for fun
 
-Worked so much time with Java then now I only want to do things on Typescript or Python (maybe learn GO some day)
+- 👀 I’m interested in Cloud Architecture
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on Wing
+
+Worked so much time with Java then now I only want to do things on Typescript or Python, learning Rust (maybe learn GO some day)
 
 <!--
 ![Marciocadev’s Stats](https://github-readme-stats.vercel.app/api?username=marciocadev&show_icons=true&theme=github_dark)
