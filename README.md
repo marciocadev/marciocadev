@@ -1,4 +1,5 @@
 Building AWS Apps with CDK and Projen for fun
+If you want to find the one to blame for adding awscdk as a target option in Wing, look no further, it was me 
 
 - 👀 I’m interested in Cloud Architecture
 - 🌱 I’m currently learning Rust
